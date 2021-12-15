@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
 require 'numo/narray'
+
+# https://github.com/kanwei/algorithms v1.0.0
 require 'algorithms'
 
 class Map
